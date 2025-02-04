@@ -81,7 +81,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.adhesive.004</b> | Roof-Wall Connection with Toe nails and 1/4 inch acrylic adhesive bead</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -104,7 +103,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.adhesive.005</b> | Roof-Wall Connection with Toe nails and 1/2 inch acrylic adhesive bead</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -127,7 +125,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.adhesive.006</b> | Roof-Wall Connection with Toe nails and foaming polyurethane adhesive.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

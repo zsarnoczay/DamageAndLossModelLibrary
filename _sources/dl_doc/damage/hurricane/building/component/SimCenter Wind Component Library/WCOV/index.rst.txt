@@ -15,7 +15,6 @@ The following models are available:
    <p class="dl_comp_name"><b>WCOV.001a</b> | Wall Cover - General fragility, lower end</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -38,7 +37,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WCOV.001b</b> | Wall Cover - General fragility, higher end</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -61,7 +59,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WCOV.002</b> | Wall Cover with Vinyl Siding</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -85,7 +82,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WCOV.003</b> | Wall Cover with Curtain Walls 30 sq ft size and 6:5 aspect ratio</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 30 ft2 

@@ -15,7 +15,6 @@ The following models are available:
    <p class="dl_comp_name"><b>WALL.001a</b> | Wood Wall - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -38,7 +37,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.001b</b> | Wood Wall - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -61,7 +59,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.001c</b> | Wood Wall - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -84,7 +81,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.001d</b> | Wood Wall - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -108,7 +104,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.001e</b> | Wood Wall - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -132,7 +127,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.002a</b> | Wall - Unreinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -156,7 +150,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.002b</b> | Wall - Unreinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -180,7 +173,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.002c</b> | Wall - Unreinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -204,7 +196,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.003a</b> | Wall - Reinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -228,7 +219,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.003b</b> | Wall - Reinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -252,7 +242,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.003c</b> | Wall - Reinforced gable ends</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -276,7 +265,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.004a</b> | Concrete block</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -299,7 +287,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WALL.004b</b> | Concrete block</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

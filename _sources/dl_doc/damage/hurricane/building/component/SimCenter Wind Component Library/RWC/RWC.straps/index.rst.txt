@@ -15,7 +15,6 @@ The following models are available:
    <p class="dl_comp_name"><b>RWC.straps.001</b> | Roof-Wall Connection with Straps</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

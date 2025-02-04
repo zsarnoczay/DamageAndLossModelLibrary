@@ -1,7 +1,7 @@
 
 
 **********************
-WSH.nails - With Nails
+RSH.nails - With Nails
 **********************
 
 The following models are available:
@@ -9,5 +9,5 @@ The following models are available:
 .. toctree::
    :maxdepth: 1
 
-   WSH.nails.6d/index
-   WSH.nails.8d/index
+   RSH.nails.6d/index
+   RSH.nails.8d/index

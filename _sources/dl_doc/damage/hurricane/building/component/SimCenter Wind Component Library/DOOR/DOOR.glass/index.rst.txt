@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>DOOR.glass.001a</b> | Glass Door</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -35,7 +34,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.glass.001b</b> | Glass Door</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

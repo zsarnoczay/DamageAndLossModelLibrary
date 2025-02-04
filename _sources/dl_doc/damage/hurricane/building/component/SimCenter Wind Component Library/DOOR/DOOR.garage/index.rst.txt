@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>DOOR.garage.001a</b> | Garage Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -36,7 +35,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.001b</b> | Garage Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -60,7 +58,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.001c</b> | Garage Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -83,7 +80,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.001d</b> | Garage Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -106,7 +102,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.002</b> | Wind-reinforced Garage Door</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -129,7 +124,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.003</b> | 2-car Garage Door (6'10" x 12")</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -155,7 +149,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.004a</b> | Double garage door - weak</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -178,7 +171,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.garage.004b</b> | Double garage door - strong</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

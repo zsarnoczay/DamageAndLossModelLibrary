@@ -1,7 +1,7 @@
 
 
 ***************************
-WSH.nails_ccsp.6d - 8d size
+RSH.nails_ccsp.6d - 6d size
 ***************************
 
 The following models are available:

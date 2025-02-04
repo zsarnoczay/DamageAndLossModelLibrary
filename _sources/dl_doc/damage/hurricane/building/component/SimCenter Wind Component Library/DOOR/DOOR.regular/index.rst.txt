@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>DOOR.regular.001a</b> | Regular Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -36,7 +35,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.regular.001b</b> | Regular Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -60,7 +58,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.regular.001c</b> | Regular Door - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -83,7 +80,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>DOOR.regular.002</b> | Regular Door 6'10" x 3'2" size</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

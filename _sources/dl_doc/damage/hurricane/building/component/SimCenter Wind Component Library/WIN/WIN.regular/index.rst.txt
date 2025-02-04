@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>WIN.regular.001a</b> | Regular Window - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -36,7 +35,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.001b</b> | Regular Window - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -61,7 +59,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.001c</b> | Regular Window - General fragility</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -84,7 +81,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.002a</b> | Regular Window on windward wall</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -107,7 +103,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.002b</b> | Regular Window on non-windward wall</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -130,7 +125,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.003a</b> | Window on a 1-story building</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -153,7 +147,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.003b</b> | Window on a 2-story building with 2 large windows</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -176,7 +169,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.004</b> | Regular Window 1/8 in 20 sq ft</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -202,7 +194,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.005a</b> | Regular Window 3/16 in 40 sq ft</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -227,7 +218,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.005b</b> | Regular Window 3/16 in 40 sq ft</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -252,7 +242,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.006</b> | Regular Window 3/16 in 20 sq ft</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -277,7 +266,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.007</b> | Regular Window small sized (3.5' x 3.5')</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -302,7 +290,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.008</b> | Regular Window medium sized (3.5' x 5.0')</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -327,7 +314,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.009</b> | Regular Window tall sized (3.5' x 6.5')</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -351,7 +337,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>WIN.regular.010</b> | Regular Window picture size (6.5' x 6.5')</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>RCOV.tiles.clay.001</b> | Roof Cover - Clay Tiles with adhesive</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -36,7 +35,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.tiles.clay.002</b> | Roof Cover - Clay Tiles with mortar</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -59,7 +57,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.tiles.concrete.001</b> | Roof Cover - Concrete Tiles with adhesive</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -82,7 +79,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.tiles.concrete.002</b> | Roof Cover - Concrete Tiles with mortar</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

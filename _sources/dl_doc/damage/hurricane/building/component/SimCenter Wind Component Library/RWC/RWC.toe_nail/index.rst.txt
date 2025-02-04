@@ -18,7 +18,6 @@ The following models are available:
    <p class="dl_comp_name"><b>RWC.toe_nail.001a</b> | Roof-Wall Connection with Toe nails</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -41,7 +40,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.001b</b> | Roof-Wall Connection with Toe nails</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -65,7 +63,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.001c</b> | Roof-Wall Connection with Toe nails</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -111,7 +108,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.003</b> | Roof-Wall Connection with Toe nails, 2-16d layout.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -134,7 +130,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.004</b> | Roof-Wall Connection with Toe nails, 3-8d layout.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -158,7 +153,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.005</b> | Roof-Wall Connection with Toe nails, 3-16d layout.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -182,7 +176,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.006a</b> | Roof-Wall Connection with Toe nails, 2-16d layout, box nails.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -206,7 +199,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.006b</b> | Roof-Wall Connection with Toe nails, 2-16d layout, box nails.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -230,7 +222,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.toe_nail.006c</b> | Roof-Wall Connection with Toe nails, 2-16d layout, box nails.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

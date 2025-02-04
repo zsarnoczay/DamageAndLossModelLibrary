@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>WIN.shutters.001</b> | Regular Window with Hurricane Shutters</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

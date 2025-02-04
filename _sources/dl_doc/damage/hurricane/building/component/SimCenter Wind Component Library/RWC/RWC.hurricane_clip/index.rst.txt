@@ -15,7 +15,6 @@ The following models are available:
    <p class="dl_comp_name"><b>RWC.hurricane_clip.001a</b> | Roof-Wall Connection with Hurricane Clip H2.5.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -39,7 +38,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RWC.hurricane_clip.001b</b> | Roof-Wall Connection with Hurricane Clip H2.5.</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

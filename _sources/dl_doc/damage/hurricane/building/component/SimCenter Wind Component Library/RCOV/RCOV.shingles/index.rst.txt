@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>RCOV.shingles.001a</b> | Roof Cover - Asphalt Shingles with standard construction and nail pattern</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -36,7 +35,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.shingles.001b</b> | Roof Cover - Asphalt Shingles with standard construction and nail pattern</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -60,7 +58,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.shingles.002a</b> | Roof Cover - Shingles with high-wind construction and nail pattern</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -84,7 +81,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.shingles.002b</b> | Roof Cover - Shingles with high-wind construction and nail pattern</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
@@ -108,7 +104,6 @@ Suggested Block Size: 1 EA
    <p class="dl_comp_name"><b>RCOV.shingles.002c</b> | Roof Cover - Shingles with high-wind construction and nail pattern</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 

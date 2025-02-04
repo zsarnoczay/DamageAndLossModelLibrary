@@ -12,7 +12,6 @@ The following models are available:
    <p class="dl_comp_name"><b>WIN.impact_resistant.001</b> | Impact resistant laminated glass window</p>
    <div>
 
-| ...
 
 
 Suggested Block Size: 1 EA 
