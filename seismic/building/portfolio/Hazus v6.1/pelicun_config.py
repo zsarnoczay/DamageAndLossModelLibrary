@@ -124,6 +124,10 @@ def auto_populate(aim):
     height_class_map = {"Low-Rise": "L", "Mid-Rise": "M", "High-Rise": "H"}
     height_class_data = gi.get("HeightClass")
 
+    # some structural systems have no height class defined in Hazus
+    if structure_type in ['W1', 'W2', 'S3', 'PC1', 'MH']:
+        height_class_data = None
+
     if gi.get("LifelineFacility"):
 
         if height_class_data is not None:
@@ -183,8 +187,7 @@ def auto_populate(aim):
             "ComponentAssignmentFile": "CMP_QNT.csv",
             "ComponentDatabase": "Hazus Earthquake - Buildings",
             "NumberOfStories": 1,
-            "OccupancyType": f"{occupancy_type}",
-            "PlanArea": "1",  # TODO(adamzs): check if this is even needed
+            "OccupancyType": f"{occupancy_type}"
         },
         "Damage": {"DamageProcess": "Hazus Earthquake - Buildings"},
         "Demands": {},

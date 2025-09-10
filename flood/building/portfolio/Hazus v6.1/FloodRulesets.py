@@ -218,7 +218,7 @@ def FL_config(BIM):
                 else:
                     fl_config = 'structural.108.RES1.FIA_Modified.two_floors.with_basement.a_zone'
 
-            elif BIM['NumberOfStories'] == 3:
+            elif BIM['NumberOfStories'] >= 3:
                 if basement_type == 'bn':
                     fl_config = 'structural.109.RES1.FIA.three_or_more_floors.no_basement.a_zone'
                 else:
@@ -243,7 +243,7 @@ def FL_config(BIM):
                 else:
                     fl_config = 'structural.116.RES1.FIA_Modified.two_floors.with_basement.v_zone'
 
-            elif BIM['NumberOfStories'] == 3:
+            elif BIM['NumberOfStories'] >= 3:
                 if basement_type == 'bn':
                     fl_config = 'structural.117.RES1.FIA.three_or_more_floors.no_basement.v_zone'
                 else:
@@ -271,7 +271,7 @@ def FL_config(BIM):
                 else:
                     fl_config = 'structural.108.RES1.FIA_Modified.two_floors.with_basement.a_zone'
 
-            elif BIM['NumberOfStories'] == 3:
+            elif BIM['NumberOfStories'] >= 3:
                 if basement_type == 'bn':
                     fl_config = 'structural.109.RES1.FIA.three_or_more_floors.no_basement.a_zone'
                 else:
