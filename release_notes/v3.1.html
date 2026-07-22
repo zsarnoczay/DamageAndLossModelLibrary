@@ -6,7 +6,7 @@
   <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Version 3.0 (July 13, 2026) &mdash; Damage and Loss Model Library  documentation</title>
+  <title>Version 3.1 (July 22, 2026) &mdash; Damage and Loss Model Library  documentation</title>
       <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
       <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
       <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
@@ -22,8 +22,8 @@
     <script src="../_static/js/theme.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Version 2.1.0 (September 11, 2025)" href="v2.1.0.html" />
-    <link rel="prev" title="Version 3.1 (July 22, 2026)" href="v3.1.html" /> 
+    <link rel="next" title="Version 3.0 (July 13, 2026)" href="v3.0.html" />
+    <link rel="prev" title="Release Notes" href="index.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -58,16 +58,16 @@
 </li>
 <li class="toctree-l1 current"><a class="reference internal" href="index.html">Release Notes</a><ul class="current">
 <li class="toctree-l2 current"><a class="reference internal" href="index.html#version-3">Version 3</a><ul class="current">
-<li class="toctree-l3"><a class="reference internal" href="v3.1.html">Version 3.1 (July 22, 2026)</a><ul>
-<li class="toctree-l4"><a class="reference internal" href="v3.1.html#added">Added</a></li>
-<li class="toctree-l4"><a class="reference internal" href="v3.1.html#changed">Changed</a></li>
-<li class="toctree-l4"><a class="reference internal" href="v3.1.html#distribution">Distribution</a></li>
-</ul>
-</li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#">Version 3.0 (July 13, 2026)</a><ul>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Version 3.1 (July 22, 2026)</a><ul>
 <li class="toctree-l4"><a class="reference internal" href="#added">Added</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#changed">Changed</a></li>
 <li class="toctree-l4"><a class="reference internal" href="#distribution">Distribution</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="v3.0.html">Version 3.0 (July 13, 2026)</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="v3.0.html#added">Added</a></li>
+<li class="toctree-l4"><a class="reference internal" href="v3.0.html#changed">Changed</a></li>
+<li class="toctree-l4"><a class="reference internal" href="v3.0.html#distribution">Distribution</a></li>
 </ul>
 </li>
 </ul>
@@ -512,7 +512,7 @@
   <ul class="wy-breadcrumbs">
       <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
           <li class="breadcrumb-item"><a href="index.html">Release Notes</a></li>
-      <li class="breadcrumb-item active">Version 3.0 (July 13, 2026)</li>
+      <li class="breadcrumb-item active">Version 3.1 (July 22, 2026)</li>
       <li class="wy-breadcrumbs-aside">
       </li>
   </ul>
@@ -521,30 +521,25 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="version-3-0-july-13-2026">
-<span id="changes-v3-0"></span><h1>Version 3.0 (July 13, 2026)<a class="headerlink" href="#version-3-0-july-13-2026" title="Link to this heading"></a></h1>
-<p>This release turns the library into an installable Python package and adds a programmatic API, a command-line interface, and the DLML Explorer web app. The model data itself is unchanged and remains backward compatible.</p>
+  <section id="version-3-1-july-22-2026">
+<span id="changes-v3-1"></span><h1>Version 3.1 (July 22, 2026)<a class="headerlink" href="#version-3-1-july-22-2026" title="Link to this heading"></a></h1>
+<p>This release extends the controlled vocabularies with unit-type information for demand types. The model data itself is unchanged.</p>
 <section id="added">
 <h2>Added<a class="headerlink" href="#added" title="Link to this heading"></a></h2>
 <ul class="simple">
-<li><p><strong>Installable package:</strong> the library is published to PyPI as <code class="docutils literal notranslate"><span class="pre">simcenter-dlml</span></code> (imported as <code class="docutils literal notranslate"><span class="pre">dlml</span></code>), with the model data bundled inside the wheel — no runtime download.</p></li>
-<li><p><strong>Python API</strong> (<code class="docutils literal notranslate"><span class="pre">import</span> <span class="pre">dlml</span></code>) for discovering datasets and reading model parameters, metadata, and input schemas: <code class="docutils literal notranslate"><span class="pre">list_datasets</span></code>, <code class="docutils literal notranslate"><span class="pre">available_collections</span></code>, <code class="docutils literal notranslate"><span class="pre">get_fragility</span></code> / <code class="docutils literal notranslate"><span class="pre">get_consequence_repair</span></code> / <code class="docutils literal notranslate"><span class="pre">get_loss_repair</span></code> / <code class="docutils literal notranslate"><span class="pre">get_parameters</span></code>, <code class="docutils literal notranslate"><span class="pre">get_metadata</span></code>, <code class="docutils literal notranslate"><span class="pre">get_schema</span></code>, <code class="docutils literal notranslate"><span class="pre">get_file</span></code>, and <code class="docutils literal notranslate"><span class="pre">validate_asset</span></code> / <code class="docutils literal notranslate"><span class="pre">validate_assets</span></code>.</p></li>
-<li><p><strong>Command-line interface</strong> (<code class="docutils literal notranslate"><span class="pre">dlml</span></code>): <code class="docutils literal notranslate"><span class="pre">dlml</span> <span class="pre">explorer</span></code> launches the web app; <code class="docutils literal notranslate"><span class="pre">dlml</span> <span class="pre">list</span></code> and <code class="docutils literal notranslate"><span class="pre">dlml</span> <span class="pre">info</span></code> inspect the packaged datasets.</p></li>
-<li><p><strong>DLML Explorer</strong> web app (the <code class="docutils literal notranslate"><span class="pre">simcenter-dlml[explorer]</span></code> extra) for searching, visualizing, and assembling project-specific model collections.</p></li>
-<li><p>Test suite, continuous integration, and PyPI trusted publishing.</p></li>
+<li><p><strong>Unit types in the demand-type vocabulary:</strong> the new canonical <code class="docutils literal notranslate"><span class="pre">EDP_TYPES</span></code> mapping records each demand type’s short acronym and the physical quantity it is measured in (<code class="docutils literal notranslate"><span class="pre">UnitType</span></code>), and the new <code class="docutils literal notranslate"><span class="pre">UNIT_TYPES</span></code> vocabulary enumerates the valid unit types: <code class="docutils literal notranslate"><span class="pre">acceleration</span></code>, <code class="docutils literal notranslate"><span class="pre">speed</span></code>, <code class="docutils literal notranslate"><span class="pre">displacement</span></code>, <code class="docutils literal notranslate"><span class="pre">unitless</span></code>, <code class="docutils literal notranslate"><span class="pre">rotation</span></code>, <code class="docutils literal notranslate"><span class="pre">force</span></code>, <code class="docutils literal notranslate"><span class="pre">force_per_length</span></code>, and <code class="docutils literal notranslate"><span class="pre">pressure</span></code>. Consumers (e.g., Pelicun 3.10+) can infer physical units for demand data from the vocabulary instead of maintaining hardcoded lists.</p></li>
 </ul>
 </section>
 <section id="changed">
 <h2>Changed<a class="headerlink" href="#changed" title="Link to this heading"></a></h2>
 <ul class="simple">
-<li><p><strong>Distribution:</strong> the project is now distributed as a pip-installable package in addition to being bundled with Pelicun; the source moved to a <code class="docutils literal notranslate"><span class="pre">src/dlml</span></code> layout with the data under <code class="docutils literal notranslate"><span class="pre">src/dlml/data</span></code>.</p></li>
-<li><p><strong>Self-contained:</strong> the core library, its API, and the documentation build no longer require Pelicun. The package now bundles the CSV-parsing helper (<code class="docutils literal notranslate"><span class="pre">convert_to_MultiIndex</span></code>) and the controlled vocabularies it validates against (the recognized demand types and probability-distribution families), so the core install depends only on pandas, numpy, and jsonschema.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">EDP_to_demand_type</span></code> is now derived from <code class="docutils literal notranslate"><span class="pre">EDP_TYPES</span></code>. Its content is identical to before, so existing consumers are unaffected.</p></li>
 </ul>
 </section>
 <section id="distribution">
 <h2>Distribution<a class="headerlink" href="#distribution" title="Link to this heading"></a></h2>
 <ul class="simple">
-<li><p>Version 3.0 is distributed through PyPI as <code class="docutils literal notranslate"><span class="pre">simcenter-dlml</span></code>. The GitHub repository’s <code class="docutils literal notranslate"><span class="pre">releases/latest</span></code> continues to point to v2.1.0, so existing Pelicun (≤3.9) installations — which download the model data from the latest GitHub release — keep working unchanged. Subsequent v3.x updates are published to PyPI.</p></li>
+<li><p>Version 3.1 is published to PyPI as <code class="docutils literal notranslate"><span class="pre">simcenter-dlml</span></code>. The GitHub repository’s <code class="docutils literal notranslate"><span class="pre">releases/latest</span></code> continues to point to v2.1.0 for legacy Pelicun (≤3.9) compatibility.</p></li>
 </ul>
 </section>
 </section>
